@@ -14,6 +14,7 @@ This repository contains supporting material such as sample scripts used for cal
   - Benchmarking data (.tar) contains all AIMD and MACE trajectories used for benchmarking calculations for Au(111), Cu(111), and Rh(111) surfaces.
   - Au111_MACE_MD_2ns_trajectories.tar contains all final 2ns MACE-MD trajectories for Au(111) surfaces with different surface charge densities.
   - Au111_1NaCl_MACE_MD_1ns_trajectories.tar contains final 1ns MACE-MD trajectories for Au(111) surfaces with 1NaCl for $\sigma=0$.
+  - Helping files (.tar) contain sample files used for analysis
 ### 2. [Estimating potential-dependent physicochemical properties at metal--electrolyte interfaces using machine learning interatomic potentials (Part 2)](https://zenodo.org/uploads/17756911)
   - Cu111_MACE_MD_2ns_trajectories.tar contains all final 2ns MACE-MD trajectories for Cu(111) surfaces with different surface charge densities.
   - Cu111_1NaCl_MACE_MD_1ns_trajectories.tar contains final 1ns MACE-MD trajectories for Cu(111) surfaces with 1NaCl for $\sigma=0$.
