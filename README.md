@@ -1,5 +1,6 @@
 # Estimating potential-dependent physicochemical properties at metal--electrolyte interfaces using machine learning interatomic potentials
-![Graphical Abstract](Graphics.svg){ width=10% }
+<img src="Graphics.svg" alt="Graphical Abstract" width="60%">
+
 This repository contains links to Zenodo records containing smaple scripts and the training and test datasets and all MACE and AIMD trajectories used in this work: **" Estimating potential-dependent physicochemical properties at metal--electrolyte interfaces using machine learning interatomic potentials"**. 
 
 [![MIT License](https://img.shields.io/badge/Code-MIT-green.svg)](./LICENSE-CODE)
