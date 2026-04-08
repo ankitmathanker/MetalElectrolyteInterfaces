@@ -1,4 +1,4 @@
-# Estimating potential-dependent physicochemical properties at metal--electrolyte interfaces using machine learning interatomic potentials
+# [Estimating potential-dependent physicochemical properties at metal--electrolyte interfaces using machine learning interatomic potentials](https://doi.org/10.1021/acselectrochem.5c00540?urlappend=%3Fref%3DPDF&jav=AM&rel=cite-as)
 <p align="center">
   <img src="Graphics.svg" alt="Graphical Abstract" width="250">
 </p>
